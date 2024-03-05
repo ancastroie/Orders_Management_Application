@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a92e45fd-5350-407d-89b9-46fb79f5aa58" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/OrderManagement/src/main/java/org/example/dao/AbstractDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/src/main/java/org/example/dao/AbstractDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OrderManagement/src/main/java/org/example/view/ClientTableView.java" beforeDir="false" afterPath="$PROJECT_DIR$/OrderManagement/src/main/java/org/example/view/ClientTableView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-11.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-12.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-13.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-files/index-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-files/index-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/application/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/application/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/application/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/application/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/application/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/application/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/connection/ConnectionFactory.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/connection/ConnectionFactory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/connection/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/connection/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/connection/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/connection/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/dao/AbstractDAO.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/dao/AbstractDAO.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/dao/ClientDAO.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/dao/ClientDAO.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/dao/OrdersDAO.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/dao/OrdersDAO.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/dao/ProductDAO.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/dao/ProductDAO.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/dao/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/dao/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/dao/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/dao/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/model/Client.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/model/Client.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/model/Orders.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/model/Orders.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/model/Product.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/model/Product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/model/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/model/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/model/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/model/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/view/ClientGui.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/view/ClientGui.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/view/ClientTableView.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/view/ClientTableView.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/view/Dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/view/Dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/view/OrderGUI.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/view/OrderGUI.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/view/ProductGui.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/view/ProductGui.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/view/ProductTableView.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/view/ProductTableView.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/view/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/view/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/view/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/view/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/serialized-form.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PdXDDtCX12Y5U2kDbPfTzKTlxj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PT2023_30422_Stroie_Anca_Gabriela_Assignment_3&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a92e45fd-5350-407d-89b9-46fb79f5aa58" name="Changes" comment="" />
+      <created>1683787820981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683787820981</updated>
+      <workItem from="1683787822033" duration="50000" />
+      <workItem from="1683787885983" duration="220000" />
+      <workItem from="1699272347947" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
